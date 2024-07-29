@@ -11,6 +11,7 @@ namespace Metallum
         /// <summary>
         /// Główny punkt wejścia dla aplikacji.
         /// </summary>
+        // Yeesha
         [STAThread]
         static void Main()
         {
